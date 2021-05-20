@@ -32,3 +32,15 @@ if var5 > 9000
 else
   puts -1
 end
+
+var6 = 14
+
+if var6 < 10
+  puts 9
+elsif var6 < 20
+  puts 19
+elsif var6 < 30
+  puts 29
+else
+  puts -1
+end
