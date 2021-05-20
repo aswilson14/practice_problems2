@@ -15,3 +15,12 @@ elsif var2 > 10
 else
   puts 0
 end
+
+var3 = 14
+var4 = 11
+
+if var3 < 10 && var4 < 10
+  puts 1
+else
+  puts 0
+end
