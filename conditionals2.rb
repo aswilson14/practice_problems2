@@ -24,3 +24,11 @@ if var3 < 10 && var4 < 10
 else
   puts 0
 end
+
+var5 = 9001
+
+if var5 > 9000
+  puts 1
+else
+  puts -1
+end
