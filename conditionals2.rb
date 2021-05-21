@@ -44,3 +44,12 @@ elsif var6 < 30
 else
   puts -1
 end
+
+var7 = 14
+var8 = 7
+
+if var7 > 10 || var8 > 110
+  puts 100
+else
+  puts -100
+end
