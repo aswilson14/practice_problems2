@@ -61,3 +61,13 @@ if var9 < 0
 else
   puts 1979
 end
+
+var10 = 100
+
+if var10 == 100
+  puts 100
+elsif var10 == 99
+  puts 99
+else 
+  puts 0
+end
