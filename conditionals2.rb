@@ -71,3 +71,12 @@ elsif var10 == 99
 else 
   puts 0
 end
+
+var11 = 43
+var12 = -4
+
+if var11 < 0 && var12 > 0
+  puts 1
+else
+  puts 0
+end
