@@ -53,3 +53,11 @@ if var7 > 10 || var8 > 110
 else
   puts -100
 end
+
+var9 = -4
+
+if var9 < 0
+  puts 1776
+else
+  puts 1979
+end
