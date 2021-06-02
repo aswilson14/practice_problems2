@@ -80,3 +80,17 @@ if var11 < 0 && var12 > 0
 else
   puts 0
 end
+
+var13 = 35
+
+if var13 > 80
+  puts 5
+elsif var13 > 60
+  puts 4
+elsif var13 > 40
+  puts 3
+elsif var13 > 20
+  puts 2
+else
+  puts 1
+end
